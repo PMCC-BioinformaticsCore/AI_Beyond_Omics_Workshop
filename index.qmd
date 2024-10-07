@@ -1,11 +1,10 @@
-
 # Call for Abstracts for Short Talks
 
 We invite abstract submissions for **5-minute short talks** on the topic of applying AI beyond bioinformatics and omics projects. Topics listed below are indicative only, as we welcome any creative ideas and projects where bioinformaticians have been involved: AI-assisted coding, AI-assisted pipeline execution, clinical informatics, experimental design optimisation, analysis of imaging and enterprise data, business intelligence, operations optimisation, professional development and career related ideas.
 
--   **Submit abstracts to** <https://forms.gle/V1Uo49GJjsJy2BuV7>. 
+-   **Submit abstracts to** <https://forms.gle/V1Uo49GJjsJy2BuV7>.
 -   **Abstract submission deadline:** [25th October Sunday 11.55 PM]{style="color:red;"}.
--   Abstracts should be concise (no more than 250 words). 
+-   Abstracts should be concise (no more than 250 words).
 -   Five talks will be selected based on innovation, relevance to the workshop theme, and clarity of the application.
 
 # Overview of the Workshop
@@ -21,36 +20,26 @@ This workshop aims to explore the broad applications of artificial intelligence 
 -   Learn key considerations in data governance and the ethical implications of AI and the use of advanced analytics platforms.
 -   Foster collaboration and knowledge exchange among participants to build a network of professionals interested in innovative AI applications.
 
+## Workshop Deatils
+
+-   **Date:** Thursday 7th November 2024 from 1.30 PM - 5.10 PM AEDT
+-   **Location:** Will be updated once available.
+
 ## Agenda
 
-#### 1. 1.30 PM – 1.35 PM Introduction
+| **Session Details** | Time |
+|---|---|
+| [**Introduction**]{style="color:green;"}<br>-  Welcome participants and introduce the goals and structure of the workshop. | 1.30 - 1.35 PM |
+| [**Short Talks**]{style="color:green;"}<br>-   Five x 5-minute talks by selected speakers, focusing on applications of AI beyond bioinformatics projects. | 1.35 – 2.10 PM |
+| [**Data Governance and Ethical Consideration**]{style="color:green;"}<br>-   Presentation on data governance and navigating ethics and regulations of AI.<br>-   Presentation on exploring advanced analytics platforms and their role in data governance.<br>-   Interactive discussion with audience participation to explore these topics further. | 2.10 - 3.00 PM |
+| [**Break**]{style="color:green;"} | 3.00 – 3.30 PM |
+| [**Hands-On Workshop on Using Generative AI Tools in Research**]{style="color:green;"}<br>-   Live demonstration and hands-on session using generative AI tools in bioinformatics research, with a focus on literature searches, coding, data analysis and visualization. The session will showcase the applications of ResearchRabbit, SCISPACE, Elicit, Litmaps, Perplexity, among others. <br>-   Participants will work with example datasets to gain first-hand experience with the capabilities and functionality of generative AI tools. | 3.30 – 4.40 PM |
+| [**Short-Talk Award**]{style="color:green;"} | 4.40 - 5.00 PM |
+| [**Wrap-Up and Open Discussion**]{style="color:green;"}<br>-   Summary of key takeaways.<br>-   Open floor for additional questions and networking. | 5.00 PM - 5.10 |
 
--   Welcome participants and introduce the goals and structure of the workshop.
 
-#### 2. 1.30 PM – 1.35 PM Introduction
+: {tbl-colwidths="[80,20]"}
 
--   Five x 5-minute talks by selected speakers, focusing on applications of AI beyond bioinformatics projects. \[30 minutes\]
--   A brief Q&A panel session to discuss insights and experiences shared during the talks. \[15 minutes\]
-
-#### 3. 9.55 AM – 10.50 AM Data Governance and Ethical Consideration
-
--   Presentation on data governance and navigating ethics and regulations of AI. \[20 minutes\]
--   Presentation on exploring advanced analytics platforms and their role in data governance. \[20 minutes\]
--   Interactive discussion with audience participation to explore these topics further. \[15 minutes\]
-
-#### 4. 3.00 PM – 3.30 PM Break
-
-#### 5. 3.30 PM – 4.40 PM Hands-On Workshop on Using Generative AI Tools in Research
-
--   Live demonstration and hands-on session using generative AI tools in bioinformatics research, with a focus on literature searches, coding, data analysis and visualization. The session will showcase the applications of ResearchRabbit, SCISPACE, Elicit, Litmaps, Perplexity, among others. \[40 minutes\]
--   Participants will work with example datasets to gain first-hand experience with the capabilities and functionality of generative AI tools. \[30 minutes\]
-
-#### 6. 4.40 PM - 5.00 PM Short-Talk Award
-
-#### 7. 5.00 PM - 5.10 PM Wrap-Up and Open Discussion
-
--   Summary of key takeaways.
--   Open floor for additional questions and networking.
 
 ## Target Audience
 
@@ -96,3 +85,5 @@ Dr. Adrien Oliva is a Cloud Bioinformatician and Postdoctoral Fellow in the Tran
 *Research Software Specialist, Monash Genomics and Bioinformatics Platform, Monash University*
 
 Dr. Andrew Perry is a Research Software Specialist at the Monash Genomics and Bioinformatics Platform, Monash University. He received his PhD in structural biology from the University of Melbourne. Andrew's work focuses on developing user-friendly genomics pipelines, with emphasis on transcriptomics and metagenomics. He is currently exploring applications of transformer architectures, large language models, and embedding-based search and retrieval techniques to enhance biological sequence discovery and annotation.
+
+------------------------------------------------------------------------
