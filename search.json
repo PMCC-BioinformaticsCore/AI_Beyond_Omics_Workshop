@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "ABACBS Conference 2024 - AI Beyond Omics Workshop",
+    "section": "",
+    "text": "Will be updated closer to the date —"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Call for Abstracts for Short Talks",
+    "section": "",
+    "text": "We invite abstract submissions for 5-minute short talks on the topic of applying AI beyond bioinformatics and omics projects. Topics listed below are indicative only, as we welcome any creative ideas and projects where bioinformaticians have been involved: AI-assisted coding, AI-assisted pipeline execution, clinical informatics, experimental design optimisation, analysis of imaging and enterprise data, business intelligence, operations optimisation, professional development and career related ideas.\n\nSubmit abstracts to https://forms.gle/V1Uo49GJjsJy2BuV7.\nAbstract submission deadline: 25th October Sunday 11.55 PM.\nAbstracts should be concise (no more than 250 words).\nFive talks will be selected based on innovation, relevance to the workshop theme, and clarity of the application."
+  },
+  {
+    "objectID": "index.html#workshop-summary",
+    "href": "index.html#workshop-summary",
+    "title": "Call for Abstracts for Short Talks",
+    "section": "Workshop Summary",
+    "text": "Workshop Summary\nThis workshop aims to explore the broad applications of artificial intelligence (AI) technologies that are relevant to bioinformaticians. The event will feature short talks where participants will present projects that demonstrate the use of AI, beyond its applications in mainstream bioinformatics. These projects may involve various AI subfields, such as machine learning (ML), deep learning, computer vision, generative AI, natural language processing, neural networks, large language models (LLMs). The workshop will include a hands-on session focused on employing generative AI tools to augment bioinformatics research with particular emphasis on literature searches, coding, data analysis and visualization. Participants will also learn and engage in discussions on data governance, the ethical and regulatory considerations of AI and the usage of advanced analytics platforms in healthcare settings."
+  },
+  {
+    "objectID": "index.html#objectives",
+    "href": "index.html#objectives",
+    "title": "Call for Abstracts for Short Talks",
+    "section": "Objectives",
+    "text": "Objectives\n\nDemonstrate innovative uses of AI by bioinformaticians in diverse applications, including AI-assisted coding, clinical informatics, experimental design optimisation, analysis of imaging and enterprise data among others.\nEngage in practical sessions to utilize generative AI tools aimed at enhancing bioinformatics research.\nLearn key considerations in data governance and the ethical implications of AI and the use of advanced analytics platforms.\nFoster collaboration and knowledge exchange among participants to build a network of professionals interested in innovative AI applications."
+  },
+  {
+    "objectID": "index.html#agenda",
+    "href": "index.html#agenda",
+    "title": "Call for Abstracts for Short Talks",
+    "section": "Agenda",
+    "text": "Agenda\n\n1. 1.30 PM – 1.35 PM Introduction\n\nWelcome participants and introduce the goals and structure of the workshop.\n\n\n\n2. 1.30 PM – 1.35 PM Introduction\n\nFive x 5-minute talks by selected speakers, focusing on applications of AI beyond bioinformatics projects. [30 minutes]\nA brief Q&A panel session to discuss insights and experiences shared during the talks. [15 minutes]\n\n\n\n3. 9.55 AM – 10.50 AM Data Governance and Ethical Consideration\n\nPresentation on data governance and navigating ethics and regulations of AI. [20 minutes]\nPresentation on exploring advanced analytics platforms and their role in data governance. [20 minutes]\nInteractive discussion with audience participation to explore these topics further. [15 minutes]\n\n\n\n4. 3.00 PM – 3.30 PM Break\n\n\n5. 3.30 PM – 4.40 PM Hands-On Workshop on Using Generative AI Tools in Research\n\nLive demonstration and hands-on session using generative AI tools in bioinformatics research, with a focus on literature searches, coding, data analysis and visualization. The session will showcase the applications of ResearchRabbit, SCISPACE, Elicit, Litmaps, Perplexity, among others. [40 minutes]\nParticipants will work with example datasets to gain first-hand experience with the capabilities and functionality of generative AI tools. [30 minutes]\n\n\n\n6. 4.40 PM - 5.00 PM Short-Talk Award\n\n\n7. 5.00 PM - 5.10 PM Wrap-Up and Open Discussion\n\nSummary of key takeaways.\nOpen floor for additional questions and networking."
+  },
+  {
+    "objectID": "index.html#target-audience",
+    "href": "index.html#target-audience",
+    "title": "Call for Abstracts for Short Talks",
+    "section": "Target Audience",
+    "text": "Target Audience\nThis workshop is intended for bioinformaticians, researchers, and data scientists interested in the intersection of AI and bioinformatics and looking to expand their skills into other areas using AI. Participant Requirements:\n\nLaptop with internet access for the hands-on session.\nBasic understanding of ML and bioinformatics concepts."
+  },
+  {
+    "objectID": "index.html#organizers",
+    "href": "index.html#organizers",
+    "title": "Call for Abstracts for Short Talks",
+    "section": "Organizers",
+    "text": "Organizers\n\nDr. Jason Li\nSenior Bioinformatics Core Manager, Peter MacCallum Cancer Centre\nDr. Jason Li is the Head of Bioinformatics Core Facility and the Lead of Artificial Intelligence Transformation Program at Peter MacCallum Cancer Centre (PMCC) in Melbourne. In addition to supporting high-throughput cancer omics analyses, Jason is spearheading various AI initiatives at PMCC to advance the organisational AI maturity in both research and clinical AI. Jason’s expertise lies in the management of diverse talent, demand and expectations in the context of a fee-for-service bioinformatics and AI facility. Jason and his team have also led and published studies in the field of DNA copy number analysis and pipeline development for high throughput data. His current research activities include the use of Large Language Models in clinical report analysis, and deep learning in cancer multi-omics and medical imaging.\n\n\nDr. Sanduni Rajapaksa\nInformatics Consultant, Peter MacCallum Cancer Centre\nDr. Sanduni Rajapaksa is an Informatics Consultant and a co-lead of the AI education program at the Peter MacCallum Cancer Centre. Sanduni received her PhD specialized in Bioinformatics from the Laboratory of Computational Biology in the Department of Data Science and AI at Monash University. Continuing her research journey, Sanduni remains passionate about exploring the vast realm of proteins and omics data using statistical inference methods and AI techniques. She actively continues to foster an understanding of AI and bioinformatics techniques among Peter Mac staff.\n\n\nRashindrie Perera\nMachine Learning Scientist, Peter MacCallum Cancer Centre\nRashindrie Perera is a Machine Learning Scientist at the Bioinformatics Core Facility and a member of the Digital & Healthcare Innovations Program at the Peter MacCallum Cancer Centre. She is currently a final-year PhD candidate in the Optimisation and Pattern Recognition Group at the Faculty of Engineering and IT, University of Melbourne. Her PhD research focuses on training deep neural networks with limited datasets. Rashindrie’s primary research interests include deep learning and computer vision.\n\n\nRichard Lupat\nSenior Bioinformatics Software Engineer, Peter MacCallum Cancer Centre\nRichard Lupat is a Senior Bioinformatics Software Engineer from the Bioinformatics Core Facility at the Peter MacCallum Cancer Centre. He received his M.Phil. degree in machine learning from The Sir Peter MacCallum Department of Oncology, University of Melbourne, in 2021. Richard currently leads a team that is responsible for developing production software and workflows for automating the analysis of cancer sequencing data. His current research interests include the portability of workflow languages, and application of Artificial Intelligence in cancer genomics.\n\n\nDr. Adrien Oliva\nCloud Bioinformatician - Postdoctoral Fellow, CSIRO\nDr. Adrien Oliva is a Cloud Bioinformatician and Postdoctoral Fellow in the Transformational Bioinformatics group at CSIRO, the Commonwealth Scientific and Industrial Research Organisation. He completed his PhD in 2022, specialising in pangenome graph research. Adrien’s work focuses on applying cloud technologies in genomics to enhance data security, optimize cost-effective algorithms, and support the broad adoption of genomic data. His current research centers on GeneGuardian, a conceptual framework for secure and ethical genomic data management that ensure participant control and data sovereignty in large-scale genomic studies.\n\n\nDr. Andrew Perry\nResearch Software Specialist, Monash Genomics and Bioinformatics Platform, Monash University\nDr. Andrew Perry is a Research Software Specialist at the Monash Genomics and Bioinformatics Platform, Monash University. He received his PhD in structural biology from the University of Melbourne. Andrew’s work focuses on developing user-friendly genomics pipelines, with emphasis on transcriptomics and metagenomics. He is currently exploring applications of transformer architectures, large language models, and embedding-based search and retrieval techniques to enhance biological sequence discovery and annotation."
+  }
+]
