@@ -189,7 +189,7 @@ Using templates can help automate repetitive tasks by providing a consistent for
 ::: callout-note
 ### Template Example: Email Summary
 
-**Task:** Summarize Email Email \
+**Task:** Summarize Email \
 **Content:** \[Paste the entire email content here.\]\
 **Instructions:**
 
@@ -516,52 +516,11 @@ In the following hands-on session, we will use ChatGPT’s Advanced Data Analysi
 
 Try the following tasks using both [ChatGPT](https://chatgpt.com) and [Julius AI](https://julius.ai/). 
 
-### Question 1
-
 Use the dataset [https://zenodo.org/record/6450144/files/metabric_clinical_and_expression_data.csv](https://zenodo.org/record/6450144/files/metabric_clinical_and_expression_data.csv) to generate the plot shown below.
 
 ![](images/plot.png)
 
 Note: This figure is generated using R. You are required to use Python for generating a similar plot.
-
-### Question 2
-
-[Figure 5a](https://pubmed.ncbi.nlm.nih.gov/27161491/#&gid=article-figures&pid=figure-5-uid-4) from the METABRIC 2016 paper compares the percentage of samples that have non-silent mutations for various genes within each of the Integrative Clusters. In this exercise, we’ll reproduce a version of one of these bar charts for the PIK3CA gene.
-
-1. Use the following list to arrange and select the desdired columns for subsequent analysis.
-
-`Patient_Id = Tumor_Sample_Barcode, Chromosome, Start_Position, End_Position, Strand, Reference_Allele, contains("Tumor_Seq"), starts_with("Variant"), Codon = Protein_position, Gene = Hugo_Symbol, starts_with("HGVS")`
-
-2. Find the most frequently mutated codons in TP53.
-
-These frequently mutated loci are known as *hotspots*.
-
-3. What type of mutations are found at the most prevalent hotspot in TP53, codon 248? What changes are occurring at the DNA and protein level?
-
-4. Create a data frame containing the number of non-silent PIK3CA mutations in each patient sample. It should have two columns, Patient_ID and PIK3CA_mutation_count.
-
-5. Join the above table and the metabric data frame to include PIK3CA mutations.
-
-6. Create a new column named Has_PIK3CA_mutation containing logical values (i.e., TRUE or FALSE).
-
-7. Compute the proportion of patient samples within each Integrative Cluster with a PIK3CA mutation. Exclude those samples that have not been sequenced and those that have not been classified into one of the Integrative Cluster subtypes.
-
-8. Plot the above percentages as a bar chart.
-
-9. Customize your plot in the following ways:
-
-- add a title
-- change the axis labels so they don’t contain underscores
-- hide legend
-- set the limits on the y axis so that the entire 0 - 100% range is displayed
-- set breaks on the y axis to be at 20% intervals
-- reduce the amount of space between the bottom of the bars and the tick marks for each integrative cluster
-- apply the Viridis colour scheme for the bars 
-- remove the vertical grid lines
-
-Compare the plot with the equivalent plot in [Figure 5a](https://pubmed.ncbi.nlm.nih.gov/27161491/#&gid=article-figures&pid=figure-5-uid-4) from the metabric mutation paper.
-
-10. Create a similar plot for GATA3 and TP53 and compare those given in [Figure 5a](https://pubmed.ncbi.nlm.nih.gov/27161491/#&gid=article-figures&pid=figure-5-uid-4) from the metabric mutation paper.
 
 :::
 
