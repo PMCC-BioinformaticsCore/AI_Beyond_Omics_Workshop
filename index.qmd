@@ -22,7 +22,7 @@ This workshop aims to explore the broad applications of artificial intelligence 
 | **Session Details** | Time |
 |---|---|
 | [**Introduction**]{style="color:green;"}<br>-  Welcome participants and introduce the goals and structure of the workshop. | 1.30 - 1.35 PM |
-| [**Short Talks**]{style="color:green;"}<br>-   Four x 6-minute talks by selected speakers, focusing on applications of AI beyond bioinformatics projects. | 1.35 – 2.10 PM |
+| [**Short Talks**]{style="color:green;"}<br>-  Four x 6-minute talks by selected speakers, focusing on applications of AI beyond bioinformatics projects. | 1.35 – 2.10 PM |
 | [**Data Governance and Ethical Consideration**]{style="color:green;"}<br>-   Presentation on data governance and navigating ethics and regulations of AI.<br>-   Presentation on exploring advanced analytics platforms and their role in data governance.<br>-   Interactive discussion with audience participation to explore these topics further. | 2.10 - 3.00 PM |
 | [**Break**]{style="color:green;"} | 3.00 – 3.30 PM |
 | [**Hands-On Workshop on Using Generative AI Tools in Research**]{style="color:green;"}<br>-   Live demonstration and hands-on session using generative AI tools in bioinformatics research, with a focus on literature searches, coding, data analysis and visualization. The session will showcase the applications of ResearchRabbit, SCISPACE, Elicit, Litmaps, Perplexity, among others. <br>-   Participants will work with example datasets to gain first-hand experience with the capabilities and functionality of generative AI tools. | 3.30 – 4.40 PM |
