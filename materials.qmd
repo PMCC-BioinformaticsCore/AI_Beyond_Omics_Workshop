@@ -191,7 +191,7 @@ Using templates can help automate repetitive tasks by providing a consistent for
 
 **Task:** Summarize Email Email \
 **Content:** \[Paste the entire email content here.\]\
-Instructions: 
+**Instructions:**
 
 1. Provide a concise summary of the email. 
 2. Highlight any key points or action items. 
@@ -199,7 +199,7 @@ Instructions:
 4. Note specific dates, deadlines, or important details mentioned.
 5. Mention any unclear points or ambiguities in the email. \
 
-Supporting Information: \[Add any context that may assist in understanding, such as previous related emails or project background.\]
+**Supporting Information:** \[Add any context that may assist in understanding, such as previous related emails or project background.\]
 :::
 
 # Using Generative AI Tools in Research
