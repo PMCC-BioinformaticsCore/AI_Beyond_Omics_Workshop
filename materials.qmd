@@ -520,7 +520,7 @@ Use the dataset [https://zenodo.org/record/6450144/files/metabric_clinical_and_e
 
 ![](images/plot.png)
 
-Note: This figure is generated using R. You are required to use Python for generating a similar plot.
+Note: This figure is generated using R. You are required to use Python for generating a similar plot. 
 
 :::
 
